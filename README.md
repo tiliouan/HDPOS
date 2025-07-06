@@ -94,7 +94,7 @@ This plugin follows WordPress security best practices:
 
 ## 📞 Support
 
-For support and more plugins, visit [LMDELM](https://lmdelm.com/)
+For support and more plugins, visit [LMDELM](https://tiliouan.dev.pages/)
 
 ## 📄 License
 
@@ -103,5 +103,5 @@ This plugin is licensed under the GPL v2 or later.
 ---
 
 **Author**: LMDELM  
-**Plugin URI**: https://lmdelm.com/  
+**Plugin URI**: https://tiliouan.dev.pages/  
 **Text Domain**: hardwarepos-point-of-sale-for-woocommerce
